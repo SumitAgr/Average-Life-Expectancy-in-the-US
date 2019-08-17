@@ -10,6 +10,14 @@ The visualization was created using Pandas for data manipulation and Plotly for 
 
 <img src = "https://i.imgur.com/ZQPFJnu.png">
 
+### Average Life Expectancy - Males vs. Females (1900 - 2014)
+
+Comparison of life expectancy for males of all races and females of all races has also been visualized below:
+
+### Screenshot:
+
+<img src = "https://i.imgur.com/XhbAicD.png">
+
 ## Author
 
 Sumit Agrawal
