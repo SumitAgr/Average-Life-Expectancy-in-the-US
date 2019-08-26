@@ -4,7 +4,7 @@ The data visualization has been created using National Center for Health Statist
 
 The data has been collected by the US Govt and highlights several catastrophic health epidemics in the US from 1917 - 1920 due to the Spanish Flu Epidemic. The data shows an upward trend for life expectancy for adults residing in the US.
 
-The visualization was created using Pandas for data manipulation and Plotly for plotting the data on a world choropleth map.
+The visualization was created using Pandas for data manipulation and Matplotlib for plotting the data.
 
 ## Screenshot:
 
